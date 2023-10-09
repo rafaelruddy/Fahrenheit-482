@@ -1,0 +1,66 @@
+{
+    "translation": {
+        "Permissão da câmera negada": "Permissão da câmera negada",
+        "Deseja permitir o uso da câmera?": "Deseja permitir o uso da câmera?",
+        "Cancelar": "Cancelar",
+        "Permitir": "Permitir",
+        "Denunciar Incêndio": "Denunciar Incêndio",
+        "Tem certeza de que deseja denunciar este incêndio?": "Tem certeza de que deseja denunciar este incêndio?",
+        "Denúncia Cancelada": "Denúncia Cancelada",
+        "Sua denúncia foi cancelada com sucesso.": "Sua denúncia foi cancelada com sucesso.",
+        "Denunciar": "Denunciar",
+        "OBS:a denuncia será feita na sua localização atual.": "OBS:a denuncia será feita na sua localização atual.",
+        "Confirmar Denúncia": "Confirmar Denúncia",
+
+
+        "Guia de Segurança e Prevenção de Incêndios": "Guia de Segurança e Prevenção de Incêndios",
+        "Prevenção de Incêndios Florestais": "Prevenção de Incêndios Florestais",
+        "Limpeza de Terrenos": "Limpeza de Terrenos",
+        "Mantenha sua propriedade livre de vegetação seca e materiais inflamáveis. Crie uma zona de segurança ao redor de sua casa, removendo arbustos e árvores próximas.": "Mantenha sua propriedade livre de vegetação seca e materiais inflamáveis. Crie uma zona de segurança ao redor de sua casa, removendo arbustos e árvores próximas.",
+        "Descarte Adequado de Cigarros": "Descarte Adequado de Cigarros",
+        "Nunca jogue cigarros acesos no chão ou pela janela do carro. Use cinzeiros portáteis à prova de fogo para descartar com segurança os cigarros.": "Nunca jogue cigarros acesos no chão ou pela janela do carro. Use cinzeiros portáteis à prova de fogo para descartar com segurança os cigarros.",
+        "Fogueiras e Churrascos": "Fogueiras e Churrascos",
+        "Siga as regulamentações locais ao fazer fogueiras ou churrascos ao ar livre. Tenha sempre um extintor de incêndio ou água por perto.": "Siga as regulamentações locais ao fazer fogueiras ou churrascos ao ar livre. Tenha sempre um extintor de incêndio ou água por perto.",
+        "Anomalias Térmicas": "Anomalias Térmicas",
+        "O que São Anomalias Térmicas?": "O que São Anomalias Térmicas?",
+        "Anomalias térmicas são áreas de temperatura anormalmente alta detectadas por satélites. Elas podem ser indicativos de incêndios florestais em desenvolvimento.": "Anomalias térmicas são áreas de temperatura anormalmente alta detectadas por satélites. Elas podem ser indicativos de incêndios florestais em desenvolvimento.",
+        "Identificação": "Identificação",
+        "Use nosso mapa interativo para identificar anomalias térmicas próximas à sua localização. Fique atento a mudanças repentinas de temperatura em sua área.": "Use nosso mapa interativo para identificar anomalias térmicas próximas à sua localização. Fique atento a mudanças repentinas de temperatura em sua área.",
+        "Dicas de Segurança": "Dicas de Segurança",
+        "Planejamento de Evacuação": "Planejamento de Evacuação",
+        "Elabore um plano de evacuação com sua família, incluindo pontos de encontro e contatos de emergência. Mantenha uma mochila de evacuação com suprimentos essenciais prontos.": "Elabore um plano de evacuação com sua família, incluindo pontos de encontro e contatos de emergência. Mantenha uma mochila de evacuação com suprimentos essenciais prontos.",
+        "Comunicação": "Comunicação",
+        "Mantenha-se informado sobre alertas de incêndios e condições climáticas locais. Use aplicativos de alerta de emergência para receber informações em tempo real.": "Mantenha-se informado sobre alertas de incêndios e condições climáticas locais. Use aplicativos de alerta de emergência para receber informações em tempo real.",
+        "Kit de Primeiros Socorros": "Kit de Primeiros Socorros",
+        "Mantenha um kit de primeiros socorros completo em sua casa e em seu veículo. Inclua itens essenciais, como curativos, medicamentos e água potável.": "Mantenha um kit de primeiros socorros completo em sua casa e em seu veículo. Inclua itens essenciais, como curativos, medicamentos e água potável.",
+        "Perguntas Frequentes": "Perguntas Frequentes",
+        "Como posso obter informações em tempo real sobre incêndios?": "Como posso obter informações em tempo real sobre incêndios?",
+        "Você pode usar nosso aplicativo para acessar informações atualizadas sobre incêndios e anomalias térmicas em sua região.": "Você pode usar nosso aplicativo para acessar informações atualizadas sobre incêndios e anomalias térmicas em sua região.",
+        "O que devo fazer se me deparar com um incêndio florestal?": "O que devo fazer se me deparar com um incêndio florestal?",
+        "Mantenha-se seguro e afaste-se do fogo. Chame imediatamente o número de emergência local e siga as instruções das autoridades.": "Mantenha-se seguro e afaste-se do fogo. Chame imediatamente o número de emergência local e siga as instruções das autoridades.",
+
+
+
+        "Localização escolhida": "Localização escolhida",
+        "Minha Localização": "Minha Localização",
+        "Dados disponibilizados por Usuários": "Dados disponibilizados por Usuários",
+        "Nível de confiança:": "Nível de confiança:",
+        "Dados disponibilizados pela Nasa": "Dados disponibilizados pela Nasa",
+
+        "Cidade": "Cidade",
+        "Temperatura": "Temperatura",
+        "Anomalias": "Anomalias",
+        "local": "local",
+        "descrição": "descrição",
+        "umidade": "umidade",
+        "Nível de risco": "Nível de risco",
+
+        "Pesquisar localização...": "Pesquisar localização...",
+
+        "Escolher idioma:": "Escolher idioma:",
+
+        "Descrição": "Descrição"
+
+        
+    }
+}
